@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  🔭 I’m currently working on:
   <ul> 
     <li>
-      Ruby on Rails based iVLE alternative as my final year university project
+      A Ruby on Rails based iVLE alternative as my final year university project
     </li>
     <li>
       Scripting common device processes for convenience 
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/chrisjfagg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="christopherfdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:christopherfdev@gmail.com">
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
