@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 <h3 align="left">Hi 👋! My name is Chris and I'm a developer from the West Midlands, UK</h3>
 
 ###
@@ -71,3 +71,4 @@ Here are some ideas to get you started:
 </div>
 
 ###
+-->
